@@ -4,3 +4,4 @@ This is reimplementation of neural cleanse. The reverse-engineer trigger is save
 
 The output is a sequence of mask's L1 norm, I didn't implementation MAD detection. 
 
+test
